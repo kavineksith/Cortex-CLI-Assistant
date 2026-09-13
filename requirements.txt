@@ -1,0 +1,5 @@
+# Cortex CLI Assistant uses only the Python standard library.
+# This file is kept intentionally empty (no third-party runtime
+# dependencies) so `pip install -r requirements.txt` always succeeds
+# offline. Development/test extras can be added below if needed, e.g.:
+# pytest>=8.0
